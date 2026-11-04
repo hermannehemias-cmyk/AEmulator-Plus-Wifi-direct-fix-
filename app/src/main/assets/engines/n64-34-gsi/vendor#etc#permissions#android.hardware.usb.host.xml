@@ -2,4 +2,7 @@
 <!-- a generic system image has no vendor feature list: without a USB feature there is no UsbManager, and Settings of 14 calls it unchecked -->
 <permissions>
     <feature name="android.hardware.usb.host" />
+    <feature name="android.hardware.wifi" />
+    <feature name="android.hardware.wifi.direct" />
 </permissions>
+
