@@ -31,4 +31,3 @@ jobs:
         with:
           name: AEmulator-Plus-Debug
           path: app/build/outputs/apk/debug/*.apk
-
